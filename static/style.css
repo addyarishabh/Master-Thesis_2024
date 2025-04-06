@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #01080d, #12c2c2);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white; /* Ensures default text is visible */
+}
+
+/* Title Styling */
+.project-title {
+    font-size: 18px;  
+    font-weight: bold;
+    color: #FFD700; /* Golden Yellow for better visibility */
+    text-align: center;
+    margin-top: 35px;
+    padding: 8px;
+    border-radius: 8px;
+    width: 90%;
+}
+
+/* Main Container */
+.container {
+    padding: 18px;
+    background: linear-gradient(to right, #01080d, #080e02);
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    width: 45%;
+    text-align: center;
+    color: white;
+}
+
+/* Uploaded Image */
+.image-container img {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+/* Prediction Results */
+.result-box {
+    margin-top: 12px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: white;
+    padding: 12px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 8px rgba(243, 245, 240, 0.2);
+}
+
+/* Probability Scores */
+.result-box p {
+    margin: 5px 0;
+    font-size: 16px;
+    color: white;
+}
+
+/* Predicted Class in Green */
+.predicted-class {
+    color: #32CD32; /* Lime Green */
+    font-weight: bold;
+}
+
+/* Upload Another Image Link */
+.upload-link {
+    display: inline-block;
+    margin-top: 12px;
+    text-decoration: none;
+    background: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 14px;
+    transition: background 0.3s;
+}
+
+.upload-link:hover {
+    background: #0056b3;
+}
+
+/* Ensuring all text inside dark sections remains visible */
+h1, h2, h3, h4, h5, h6, p, span, label {
+    color: white;
+}

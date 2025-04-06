@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <p class="project-title">Enhancing Diabetic Retinopathy Detection Using a ConvNeXt-KAN Deep Learning Model</p>
+
+        <h1>Prediction Result</h1>
+
+        <div class="image-container">
+            <img src="{{ url_for('static', filename='uploads/' + filename) }}" alt="Uploaded Image">
+        </div>
+
+        <div class="result-box">
+            <p><strong>Predicted Class:</strong> <span class="predicted-class">{{ prediction }}</span></p>
+            <h2>Class Probability Scores:</h2>
+            <div>
+                {% for class_name, prob in probability_scores.items() %}
+                    <p><strong>{{ class_name }}:</strong> {{ prob }}</p>
+                {% endfor %}
+            </div>
+        </div>
+
+        <a class="upload-link" href="/">Upload Another Image</a>
+    </div>
+</body>
+</html>
