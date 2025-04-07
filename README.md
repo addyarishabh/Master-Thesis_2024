@@ -126,6 +126,11 @@ classification, leveraging their unique advantages.
 
 ![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/pipeline.png?raw=true)
 
+### Tools Used:
+
+![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/tools.jpeg?raw=true)
+
+
 ### Dataset Description:
 
 The dataset consists of retinal fundus images used for detecting diabetic retinopathy. The 
