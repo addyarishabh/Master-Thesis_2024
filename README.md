@@ -92,6 +92,7 @@ classification, leveraging their unique advantages.
 
 ### End to End Pipeline for ConvNeXt-KAN-Based Diabetic Retinopathy Detection
 
+![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/pipeline.png?raw=true)
 
 
 
