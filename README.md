@@ -3,6 +3,35 @@
 
 ![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/title%20image2.jpg?raw=true)
 
+#### Submitted by,
+Rishabh Kumar Addya (19458122003)
+Sumedha Banerjee (19458122001)
+Saptaparna Ghosh (19458122007)
+Saikat Dhara (19458122012)
+
+#### Degree Programme: 
+Master of Sceince 
+
+
+#### Batch: 
+2022-2024
+
+#### Year:
+2023-2024
+
+#### Under the Supervision of:
+Prof. Mithun Mazumdar (HOD, Data Analytics Department)
+
+#### Submitted to, 
+Data Analytics
+
+#### at
+Institute of Management Study
+
+
+![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/title%20image2.jpg?raw=true)
+
+
 ### Abstract:
 
 Diabetic Retinopathy (DR), a leading cause of vision impairment, results from prolonged hyperglycemia damaging retinal blood vessels. Early detection is critical to prevent severe vision loss. This study proposes a hybrid deep learning model combining ConvNeXt for automated feature extraction and a Kolmogorov-Arnold Network (KAN) for classification, aiming to improve diagnostic accuracy, interpretability, and clinical reliability in DR severity detection.
