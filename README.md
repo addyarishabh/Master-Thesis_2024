@@ -126,6 +126,12 @@ leading to a total of 2000 images used for training.
 ![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/loss%20vs%20accuracy.png?raw=true)
 
 
+### Model Evaluation:
+
+![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/metrics.png?raw=true)
+
+
+
 
 
 
