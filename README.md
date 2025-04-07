@@ -46,12 +46,16 @@ interpretable classification of diabetic retinopathy severity.
 
 a) How does the ConvNeXt-KAN model improve DR classification accuracy 
 compared to MobileNetV2, EfficientNet-B0, and ViT? 
+
 b) Can KAN-based classification enhance model interpretability over traditional 
 CNN architectures? 
+
 c) How does the model perform in terms of sensitivity and specificity, especially 
 for proliferative DR cases? 
+
 d) What are the benefits of replacing MLP heads with KAN-based functional 
 decomposition in deep learning models? 
+
 e) How can the proposed system be deployed effectively for real-time DR 
 screening in clinical settings?
 
