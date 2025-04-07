@@ -83,6 +83,7 @@ classification, leveraging their unique advantages.
 
 ### Multi-Layer Perceptron (MLP) vs Kolmogorov-Arnold Network (KAN)
 
+![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/MLP%20vs%20KAN.png?raw=true)
 
 
 
