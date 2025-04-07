@@ -150,8 +150,18 @@ leading to a total of 2000 images used for training.
 ![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/result.png?raw=true)
 
 
+### Limitations:
 
-
+Despite achieving promising results, several limitations were identified in this study:
+1. Dataset Limitations
+-	The dataset used in this study contains 2,000 images, which, while balanced, is not large enough for a production-level system.
+-	A larger, more diverse dataset with real-world clinical images would enhance generalization.
+2. Computational Complexity
+-	ConvNeXt, being a highly parameterized deep learning model, requires substantial computational resources.
+-	Training on edge devices or lower-end GPUs may not be feasible without model pruning or quantization.
+6.	Lack of Lesion Localization
+-	The current model classifies the entire image into a DR category but does not localize specific lesions (such as microaneurysms or hemorrhages).
+-	Localization techniques, such as Grad-CAM or attention mechanisms, could enhance interpretability.
 
 
 
