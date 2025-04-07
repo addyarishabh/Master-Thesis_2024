@@ -5,8 +5,11 @@
 
 #### Submitted by,
 Rishabh Kumar Addya (19458122003)
+
 Sumedha Banerjee (19458122001)
+
 Saptaparna Ghosh (19458122007)
+
 Saikat Dhara (19458122012)
 
 #### Degree Programme: 
@@ -29,7 +32,7 @@ Data Analytics
 Institute of Management Study
 
 
-![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/title%20image2.jpg?raw=true)
+![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/logo.jpg?raw=true)
 
 
 ### Abstract:
