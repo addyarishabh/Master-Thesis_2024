@@ -42,7 +42,7 @@ To develop and evaluate a ConvNeXt-KAN hybrid model for the accurate and
 interpretable classification of diabetic retinopathy severity. 
 
 
-### Research Question:
+### Research Questions:
 
 a) How does the ConvNeXt-KAN model improve DR classification accuracy 
 compared to MobileNetV2, EfficientNet-B0, and ViT? 
@@ -144,6 +144,10 @@ leading to a total of 2000 images used for training.
 
 ![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/interface.png?raw=true)
 
+
+### Results:
+
+![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/result.png?raw=true)
 
 
 
