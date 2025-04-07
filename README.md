@@ -15,6 +15,27 @@ Keywords: Diabetic Retinopathy (DR), Deep Learning, ConvNeXt, Kolmogorov-Arnold 
 ![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/Title%20image.png?raw=true)
 
 
+### Problem Statement:
+
+* Despite the advancements in deep learning for DR detection, several 
+challenges remain: 
+Limited interpretability – Traditional CNN-based models function as "black 
+boxes," making clinical validation difficult. 
+High computational cost – Pre-trained models such as ViTs require large
+scale data and extensive computation. 
+Class imbalance in medical datasets – Severe DR cases are significantly 
+underrepresented, leading to poor classification performance in minority 
+classes. 
+Variability in retinal images – Differences in illumination, contrast, and 
+imaging devices affect model robustness. 
+* To overcome these issues, this study integrates Kolmogorov-Arnold 
+Networks (KAN) into ConvNeXt, replacing the traditional MLP (Multilayer 
+Perceptron) head with learnable B-spline activation functions. This 
+approach enhances the model’s interpretability, reduces parameter overhead, 
+and improves generalization. Additionally, the proposed model is deployed 
+using Flask and CSS, making it accessible for real-world applications.
+
+
 
 
 
