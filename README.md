@@ -36,6 +36,57 @@ and improves generalization. Additionally, the proposed model is deployed
 using Flask and CSS, making it accessible for real-world applications.
 
 
+### Aim:
+
+To develop and evaluate a ConvNeXt-KAN hybrid model for the accurate and 
+interpretable classification of diabetic retinopathy severity. 
+
+
+### Research Question:
+
+a) How does the ConvNeXt-KAN model improve DR classification accuracy 
+compared to MobileNetV2, EfficientNet-B0, and ViT? 
+b) Can KAN-based classification enhance model interpretability over traditional 
+CNN architectures? 
+c) How does the model perform in terms of sensitivity and specificity, especially 
+for proliferative DR cases? 
+d) What are the benefits of replacing MLP heads with KAN-based functional 
+decomposition in deep learning models? 
+e) How can the proposed system be deployed effectively for real-time DR 
+screening in clinical settings?
+
+
+### Literature Review:
+
+Diabetic Retinopathy (DR) is one of the leading causes of blindness worldwide, primarily 
+caused by prolonged hyperglycemia leading to damage in retinal blood vessels. Several deep 
+learning-based approaches have been proposed for the automated detection and classification 
+of DR. Traditional machine learning methods, such as Support Vector Machines (SVM) and 
+Random Forests, were used in earlier studies but required handcrafted feature extraction, 
+limiting their generalization ability. 
+With the advent of Convolutional Neural Networks (CNNs), deep learning models such as 
+AlexNet, VGG16, ResNet, and EfficientNet have significantly improved DR classification by 
+learning hierarchical feature representations from retinal fundus images. The EyePACS 
+dataset and the APTOS dataset are commonly used for training and validating such models. 
+Studies have reported high classification accuracy using pre-trained models like InceptionV3 
+(92.1%), ResNet50 (91.3%), and EfficientNet-B0 (93.5%). However, most CNN-based 
+models face interpretability challenges and require large amounts of labeled data for effective 
+training. Recent advancements have explored Vision Transformers (ViTs) for DR 
+classification due to their ability to model global dependencies in images. However, ViTs 
+often require high computational resources and large-scale pre-training on medical image 
+datasets, making them less accessible for real-world clinical applications. 
+Thus, while existing deep learning approaches have shown promise in DR detection, they still 
+suffer from computational inefficiencies, lack of interpretability, and suboptimal 
+generalization to real-world clinical scenarios. This study aims to address these limitations by 
+integrating ConvNeXt for feature extraction and Kolmogorov-Arnold Networks (KAN) for 
+classification, leveraging their unique advantages. 
+
+### Multi-Layer Perceptron (MLP) vs Kolmogorov-Arnold Network (KAN)
+
+
+
+
+
 
 
 
