@@ -130,6 +130,12 @@ leading to a total of 2000 images used for training.
 
 ![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/metrics.png?raw=true)
 
+### Confusion Matrix:
+
+![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/c12.png?raw=true)
+
+
+
 
 
 
