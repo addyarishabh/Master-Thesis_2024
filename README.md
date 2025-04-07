@@ -1,6 +1,8 @@
 # Enhancing Diabetic Retinopathy Detection Using a ConvNeXt-KAN Deep Learning Model 
 
 
+![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/title%20image2.jpg?raw=true)
+
 ### Abstract:
 
 Diabetic Retinopathy (DR), a leading cause of vision impairment, results from prolonged hyperglycemia damaging retinal blood vessels. Early detection is critical to prevent severe vision loss. This study proposes a hybrid deep learning model combining ConvNeXt for automated feature extraction and a Kolmogorov-Arnold Network (KAN) for classification, aiming to improve diagnostic accuracy, interpretability, and clinical reliability in DR severity detection.
@@ -12,7 +14,6 @@ Keywords: Diabetic Retinopathy (DR), Deep Learning, ConvNeXt, Kolmogorov-Arnold 
 
 ![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/Title%20image.png?raw=true)
 
-![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/title%20image2.jpg?raw=true)
 
 
 
