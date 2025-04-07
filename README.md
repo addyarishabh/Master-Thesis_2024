@@ -140,6 +140,11 @@ leading to a total of 2000 images used for training.
 ![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/f12.png?raw=true)
 
 
+### Local Application Interface
+
+![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/interface.png?raw=true)
+
+
 
 
 
