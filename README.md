@@ -90,6 +90,10 @@ classification, leveraging their unique advantages.
 ![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/MLP%20vs%20KAN.png?raw=true)
 
 
+### End to End Pipeline for ConvNeXt-KAN-Based Diabetic Retinopathy Detection
+
+
+
 
 
 
