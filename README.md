@@ -32,7 +32,7 @@ Data Analytics
 Institute of Management Study
 
 
-![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/logo.jpg?raw=true)
+![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/logo.png?raw=true)
 
 
 ### Abstract:
