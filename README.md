@@ -94,8 +94,32 @@ classification, leveraging their unique advantages.
 
 ![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/pipeline.png?raw=true)
 
+### Dataset Description:
+
+The dataset consists of retinal fundus images used for detecting diabetic retinopathy. The 
+original dataset was sourced from APTOS 2019 Blindness Detection and contained images of 
+different severity levels of diabetic retinopathy. Each image was resized to 224×224 pixels to match the input size of pre-trained deep learning 
+models. 
+The images were categorized into five classes based on the severity of diabetic retinopathy:
+
+* Label 0 -> Healthy Retina - Original Count (1805)
+* Label 1 -> Mild DR - Original Count (370)
+* Label 2 -> Moderate DR - Original Count (999)
+* Label 3 -> Severe DR - Original Count (193)
+* Label 4 -> Proliferative DR - Original Count (295)
+
+To ensure a balanced dataset, the number of images per class was equalized to 400 per class, 
+leading to a total of 2000 images used for training. 
+
+### Train-Test Split:
+
+* 80% Training Set (1600 images)
+* 20% Test Set (400 images)
 
 
+### ConvNeXt-KAN model summary:
+
+![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/model.png?raw=true)
 
 
 
