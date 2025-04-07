@@ -19,14 +19,14 @@ Keywords: Diabetic Retinopathy (DR), Deep Learning, ConvNeXt, Kolmogorov-Arnold 
 
 * Despite the advancements in deep learning for DR detection, several 
 challenges remain: 
-Limited interpretability – Traditional CNN-based models function as "black 
+- Limited interpretability – Traditional CNN-based models function as "black 
 boxes," making clinical validation difficult. 
-High computational cost – Pre-trained models such as ViTs require large
+- High computational cost – Pre-trained models such as ViTs require large
 scale data and extensive computation. 
-Class imbalance in medical datasets – Severe DR cases are significantly 
+- Class imbalance in medical datasets – Severe DR cases are significantly 
 underrepresented, leading to poor classification performance in minority 
 classes. 
-Variability in retinal images – Differences in illumination, contrast, and 
+- Variability in retinal images – Differences in illumination, contrast, and 
 imaging devices affect model robustness. 
 * To overcome these issues, this study integrates Kolmogorov-Arnold 
 Networks (KAN) into ConvNeXt, replacing the traditional MLP (Multilayer 
