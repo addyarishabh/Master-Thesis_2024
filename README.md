@@ -12,6 +12,11 @@ Keywords: Diabetic Retinopathy (DR), Deep Learning, ConvNeXt, Kolmogorov-Arnold 
 
 ![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/Title%20image.png?raw=true)
 
+![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/Title%20image2.png?raw=true)
+
+
+
+
 
 
 
