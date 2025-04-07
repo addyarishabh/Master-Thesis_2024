@@ -123,7 +123,7 @@ leading to a total of 2000 images used for training.
 
 ### Model Training Loss and Training Accuracy Graph:
 
-![login](https://github.com/addyarishabh/MasterThesis_2024/blob/main/icon/loss%20vs%20accuracy.png?raw=true)
+![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/loss%20vs%20accuracy.png?raw=true)
 
 
 
