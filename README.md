@@ -134,6 +134,12 @@ leading to a total of 2000 images used for training.
 
 ![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/c12.png?raw=true)
 
+### AUC-ROC Curve:
+
+
+![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/f12.png?raw=true)
+
+
 
 
 
