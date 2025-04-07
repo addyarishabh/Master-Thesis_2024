@@ -159,10 +159,59 @@ Despite achieving promising results, several limitations were identified in this
 2. Computational Complexity
 -	ConvNeXt, being a highly parameterized deep learning model, requires substantial computational resources.
 -	Training on edge devices or lower-end GPUs may not be feasible without model pruning or quantization.
-6.	Lack of Lesion Localization
+3.	Lack of Lesion Localization
 -	The current model classifies the entire image into a DR category but does not localize specific lesions (such as microaneurysms or hemorrhages).
 -	Localization techniques, such as Grad-CAM or attention mechanisms, could enhance interpretability.
 
+
+### References:
+
+[1]. Neural Computing and Applications, "Automated Detecting and Severity 
+Grading of Diabetic Retinopathy Using Transfer Learning and Attention 
+Mechanism," 2023. DOI:  
+https://doi.org/10.1007/s00521-023-09001-1
+
+[2]. arXiv preprint arXiv:2308.09945, "Dual Branch Deep Learning Network for 
+Detection and Stage Grading of Diabetic Retinopathy," 2023. Available at: 
+https://arxiv.org/abs/2308.09945
+
+[3]. arXiv preprint arXiv:2405.01734, "Diabetic Retinopathy Detection Using 
+Quantum Transfer Learning," 2024. Available at: 
+https://arxiv.org/abs/2405.01734
+
+[4]. arXiv preprint arXiv:2301.00973, "Detecting Severity of Diabetic Retinopathy 
+from Fundus Images: A Transformer Network-based Review," 2023. Available at: 
+https://arxiv.org/abs/2301.00973
+
+[5]. arXiv preprint arXiv:2004.06334, "Automated Diabetic Retinopathy Grading 
+Using Deep Convolutional Neural Network," 2020. Available at: 
+https://arxiv.org/abs/2004.06334
+
+[6]. Sensors, "Using Deep Learning Architectures for Detection and Classification 
+of Diabetic Retinopathy," 2023. DOI: 
+https://doi.org/10.3390/s23125726
+
+[7]. Journal of Electrical Systems, "Diabetic Retinopathy Detection Using Deep 
+Learning," 2023. Available at: 
+https://journal.esrgroups.org/jes/article/view/687
+
+[8]. Multimedia Tools and Applications, "Diabetic Retinopathy Prediction Based 
+on Deep Learning and Deformable Registration," 2022. DOI: 
+https://doi.org/10.1007/s11042-022-12968-z
+
+[9]. Diagnostics, "Enhancement of Diabetic Retinopathy Prognostication Using 
+Deep Learning, CLAHE, and ESRGAN," 2023. DOI: 
+https://doi.org/10.3390/diagnostics13122001
+
+[10]. Digital Health, "Enhancing Diabetic Retinopathy Classification Using Deep 
+Learning," 2023. DOI: 
+https://doi.org/10.1177/20552076231100758 
+
+[11] Dataset link: 
+https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy
+224x224-2019-data/ 
+[12] Project Github Link: 
+https://github.com/addyarishabh/Master-Thesis_2024.git
 
 
 
