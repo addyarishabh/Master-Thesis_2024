@@ -6,12 +6,6 @@
 #### Submitted by,
 Rishabh Kumar Addya (19458122003)
 
-Sumedha Banerjee (19458122001)
-
-Saptaparna Ghosh (19458122007)
-
-Saikat Dhara (19458122012)
-
 #### Degree Programme: 
 Master of Sceince 
 
