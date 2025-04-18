@@ -1,5 +1,4 @@
-# Enhancing Diabetic Retinopathy Detection Using a ConvNeXt-KAN Deep Learning Model 
-
+# KAN-Augmented ConvNeXt Model for Robust Multi-Class Diabetic Retinopathy Classification
 
 ![login](https://github.com/addyarishabh/Master-Thesis_2024/blob/main/icon/title%20image2.jpg?raw=true)
 
