@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from train import train
 from test import evaluate
 from model import ConvNeXtKAN
