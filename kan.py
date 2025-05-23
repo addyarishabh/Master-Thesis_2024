@@ -188,4 +188,4 @@ class KANLinear(nn.Module):
         regularization_loss_entropy = -torch.sum(p * p.log())
         return (
             regularize_activation * regularization_loss_activation
-            + regularize_entropy * regularization_loss_entropy
+            + regularize_entropy * regularization_loss_entropy)
